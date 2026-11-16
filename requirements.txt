@@ -1,0 +1,13 @@
+transformers>=4.48
+torch
+pandas
+scipy
+scikit-learn
+matplotlib
+openpyxl
+datasets
+huggingface_hub
+requests
+curatorkit
+auditkit
+safetune
